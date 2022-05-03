@@ -1,22 +1,27 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
-#lnd{
-  height: 95vh;
+#lnd {
+  height: 99vh;
 }
-#pp{
+
+#pp {
   -webkit-filter: drop-shadow(5px 5px 5px #ffc900);
-  filter:         drop-shadow(5px 5px 5px #ffc900); 
+  filter: drop-shadow(5px 5px 5px #ffc900);
 }
 #testimonials {
   background-image: url(./assets/bg.jpg);
   background-attachment: fixed;
+
+}
+#testimonials .container{
+  width:60vw;
 }
 #tbg {
   height: 100vh;
-  background-color: #471247b0;
+  background-color: #47124740;
 }
