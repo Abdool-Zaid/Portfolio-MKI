@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+#lnd{
+  height: 95vh;
+}
+#pp{
+  -webkit-filter: drop-shadow(5px 5px 5px #ffc900);
+  filter:         drop-shadow(5px 5px 5px #ffc900); 
+}
+#testimonials {
+  background-image: url(./assets/bg.jpg);
+  background-attachment: fixed;
+}
+#tbg {
+  height: 100vh;
+  background-color: #471247b0;
+}
